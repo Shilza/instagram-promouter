@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FUSUsageTrigger">
+    <session id="-1585383023">
+      <usages-collector id="statistics.php.composer.actions">
+        <counts>
+          <entry key="addDependencyDialog_from_MainMenu" value="1" />
+          <entry key="clear-cache_from_MainMenu" value="1" />
+          <entry key="diagnose_from_MainMenu" value="1" />
+          <entry key="dump-autoload_from_ProjectViewPopup" value="2" />
+          <entry key="init_from_MainMenu" value="1" />
+          <entry key="install_from_ComposerEditorNotificationPanel" value="6" />
+          <entry key="require_from_AddDependencyDialog" value="1" />
+          <entry key="updateAll_from_ComposerEditorNotificationPanel" value="2" />
+          <entry key="updateAll_from_MainMenu" value="2" />
+          <entry key="updateAll_from_ProjectViewPopup" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.composer.command.options">
+        <counts>
+          <entry key="dump-autoload_with_--ansi_--no-interaction_--verbose" value="2" />
+          <entry key="require_with_--ansi_--no-interaction_--no-progress.default" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1614341083">
+      <usages-collector id="statistics.php.composer.actions">
+        <counts>
+          <entry key="addDependencyDialog_from_ProjectViewPopup" value="1" />
+          <entry key="remove_from_AddDependencyDialog" value="6" />
+          <entry key="require_from_AddDependencyDialog" value="1" />
+          <entry key="updatePackage_from_AddDependencyDialog" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.composer.command.options">
+        <counts>
+          <entry key="remove_with_--ansi_--no-interaction_--no-progress.default" value="6" />
+          <entry key="require_with_--ansi_--no-interaction_--no-progress.default" value="1" />
+          <entry key="updatePackage_with_--ansi_--no-interaction_--no-progress.default" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+</project>

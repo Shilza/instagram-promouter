@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee65cf2f-b42d-49cd-aae3-dcf44451cd04" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/examples/accountWorkerExample.php" beforeDir="false" afterPath="$PROJECT_DIR$/examples/accountWorkerExample.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/botsExample.php" beforeDir="false" afterPath="$PROJECT_DIR$/examples/botsExample.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Instagram.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Instagram.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath />
+    <executablePath>composer</executablePath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="botsExample.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/botsExample.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+              <folding>
+                <element signature="e#53#85#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="accountWorkerExample.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/accountWorkerExample.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstagramBuilder.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InstagramBuilder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2737">
+              <caret line="161" column="7" selection-start-line="161" selection-start-column="7" selection-end-line="161" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Logger.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Util/Logger.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="557">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountWorker.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Util/AccountWorker.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+              <folding>
+                <element signature="e#24#68#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeotagBot.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bots/GeotagBot.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+              <folding>
+                <element signature="e#23#55#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashtagBot.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bots/HashtagBot.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+              <folding>
+                <element signature="e#23#55#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TagBot.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bots/TagBot.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <folding>
+                <element signature="e#23#55#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Instagram.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Instagram.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <folding>
+                <element signature="e#64#84#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bot.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bots/Bot.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1751">
+              <caret line="109" column="19" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>notifi</find>
+      <find>follo</find>
+      <find>like</find>
+      <find>text</find>
+      <find>new_sto</find>
+      <find>mrazz</find>
+      <find>username</find>
+      <find>users</find>
+      <find>cursor</find>
+      <find>foll</find>
+      <find>Exception</find>
+      <find>Logger</find>
+      <find>DELI</find>
+      <find>Points</find>
+      <find>Run Bot</find>
+      <find>COUNT OF MEDIAS</find>
+      <find>finally</find>
+      <find>Run Bot\HashtagBot</find>
+      <find>HashtagBot</find>
+      <find>points</find>
+      <find>Finally</find>
+      <find>NotFo</find>
+      <find>$botProcessStatistics</find>
+      <find>$this-&gt;in</find>
+      <find>standard_hashtags</find>
+      <find>standard</find>
+      <find>standard_comments</find>
+      <find>sleep</find>
+      <find>var_</find>
+      <find>echo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>default_geotags</replace>
+      <replace>default_hashtags</replace>
+      <replace>default</replace>
+      <replace>default_comments</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/AccountWorker.php" />
+        <option value="$PROJECT_DIR$/configDB" />
+        <option value="$PROJECT_DIR$/2436801585.txt" />
+        <option value="$PROJECT_DIR$/7906270844.txt" />
+        <option value="$PROJECT_DIR$/src/BaseAccountsRepository.php" />
+        <option value="$PROJECT_DIR$/src/Repositories/BaseAccountsRepository.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c48103e7-25e8-423f-9467-39cf24895628/console.sql" />
+        <option value="$PROJECT_DIR$/botProcess7906270844" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/vendor/shilza/instagram-php-scraper/src/InstagramScraper/Instagram.php" />
+        <option value="$PROJECT_DIR$/src/Entities/User.php" />
+        <option value="$PROJECT_DIR$/BotsController.php" />
+        <option value="$PROJECT_DIR$/src/AccountWorkerFollowsProcess.php" />
+        <option value="$PROJECT_DIR$/src/Repositories/FollowsRepository.php" />
+        <option value="$PROJECT_DIR$/AccountWorkerFollowsProcess.php" />
+        <option value="$PROJECT_DIR$/deleteCommentsByBot2436801585.log" />
+        <option value="$PROJECT_DIR$/unfollowFromAll7906270844.log" />
+        <option value="$PROJECT_DIR$/src/Repositories/Updatable.php" />
+        <option value="$PROJECT_DIR$/src/Repositories/CommentsRepository.php" />
+        <option value="$PROJECT_DIR$/src/Repositories/StatisticsRepository.php" />
+        <option value="$PROJECT_DIR$/src/Entities/Account.php" />
+        <option value="$PROJECT_DIR$/AddingToTheQueue.php" />
+        <option value="$PROJECT_DIR$/ProcessController.php" />
+        <option value="$PROJECT_DIR$/2436801585.log" />
+        <option value="$PROJECT_DIR$/src/Repositories/AccountsRepository.php" />
+        <option value="$PROJECT_DIR$/src/Exception/WorkStoppedException.php" />
+        <option value="$PROJECT_DIR$/src/Exceptions/WorkStoppedException.php" />
+        <option value="$PROJECT_DIR$/7906270844.log" />
+        <option value="$PROJECT_DIR$/config" />
+        <option value="$PROJECT_DIR$/AccountWorkerProcess.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/49a24960-0ca0-4711-9162-456ed820f377/console.sql" />
+        <option value="$PROJECT_DIR$/src/Repositories/UsersRepository.php" />
+        <option value="$PROJECT_DIR$/BotProcess.php" />
+        <option value="$PROJECT_DIR$/src/Util/DatabaseWorker.php" />
+        <option value="$PROJECT_DIR$/src/Entities/BotProcessStatistics.php" />
+        <option value="$PROJECT_DIR$/src/Instragram.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/Util/Logger.php" />
+        <option value="$PROJECT_DIR$/src/Bots/TagBot.php" />
+        <option value="$PROJECT_DIR$/src/Bots/HashtagBot.php" />
+        <option value="$PROJECT_DIR$/src/Bots/GeotagBot.php" />
+        <option value="$PROJECT_DIR$/src/Bots/Bot.php" />
+        <option value="$PROJECT_DIR$/examples/example.php" />
+        <option value="$PROJECT_DIR$/src/Util/AccountWorker.php" />
+        <option value="$PROJECT_DIR$/examples/logfile.log" />
+        <option value="$PROJECT_DIR$/src/InstagramBuilder.php" />
+        <option value="$PROJECT_DIR$/src/Bots/AccountsBot.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/examples/botsExample.php" />
+        <option value="$PROJECT_DIR$/src/Instagram.php" />
+        <option value="$PROJECT_DIR$/examples/accountWorkerExample.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/mashape/unirest-php" />
+      <path value="$PROJECT_DIR$/vendor/phpfastcache/phpssdb" />
+      <path value="$PROJECT_DIR$/vendor/phpfastcache/phpfastcache" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/raiym/instagram-php-scraper" />
+      <path value="$PROJECT_DIR$/vendor/predis/predis" />
+      <path value="$PROJECT_DIR$/vendor/shilza/instagram-php-scraper" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="643" />
+    <option name="y" value="30" />
+    <option name="width" value="720" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="instagram-promouter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="instagram-promouter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="instagram-promouter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="instagram-promouter" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="instagram-promouter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="instagram-promouter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="instagram-promouter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="instagram-promouter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Entities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="instagram-promouter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="instagram-promouter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="echo&#9;null&#9;null&#10;getFollowUrl&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="dumpAutoload D:/Open Server/OpenServer/domains/InstagramBot/composer.json" value="--no-interaction --ansi --verbose" />
+    <property name="dumpAutoload D:/Progr/OpenServer/php-instagram-bot/composer.json" value="--no-interaction --ansi --verbose" />
+    <property name="dumpAutoload E:/VISUAL/OpenServer/domains/InstaTest.com/composer.json" value="--no-interaction --ansi --verbose" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Open Server\OpenServer\domains\InstagramBot\src\Exceptions" />
+      <recent name="D:\Open Server\OpenServer\domains\InstagramBot" />
+      <recent name="D:\Open Server\OpenServer\domains\InstagramBot\src\Repositories" />
+      <recent name="E:\VISUAL\OpenServer\domains\InstaTest.com\src\Util" />
+      <recent name="D:\Open Server\OpenServer\domains\InstagramBot\src\Bots" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.botsExample.php">
+    <configuration name="AddingToTheQueue.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/AddingToTheQueue.php" />
+    <configuration name="BotProcess.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/BotProcess.php" />
+    <configuration name="ProcessController.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ProcessController.php" />
+    <configuration name="accountWorkerExample.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/examples/accountWorkerExample.php" />
+    <configuration name="botsExample.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/examples/botsExample.php" />
+    <list>
+      <item itemvalue="PHP Script.BotProcess.php" />
+      <item itemvalue="PHP Script.ProcessController.php" />
+      <item itemvalue="PHP Script.AddingToTheQueue.php" />
+      <item itemvalue="PHP Script.botsExample.php" />
+      <item itemvalue="PHP Script.accountWorkerExample.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.botsExample.php" />
+        <item itemvalue="PHP Script.accountWorkerExample.php" />
+        <item itemvalue="PHP Script.ProcessController.php" />
+        <item itemvalue="PHP Script.AddingToTheQueue.php" />
+        <item itemvalue="PHP Script.BotProcess.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee65cf2f-b42d-49cd-aae3-dcf44451cd04" name="Default" comment="" />
+      <created>1527701464900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527701464900</updated>
+      <workItem from="1527701469871" duration="2380000" />
+      <workItem from="1527705100368" duration="8000" />
+      <workItem from="1527705165991" duration="245000" />
+      <workItem from="1527705448417" duration="58000" />
+      <workItem from="1527705573394" duration="454000" />
+      <workItem from="1527709798045" duration="1612000" />
+      <workItem from="1527741768481" duration="2845000" />
+      <workItem from="1527776460839" duration="11977000" />
+      <workItem from="1527866452274" duration="1344000" />
+      <workItem from="1527869038817" duration="1981000" />
+      <workItem from="1527873068953" duration="767000" />
+      <workItem from="1527880796293" duration="2173000" />
+      <workItem from="1527930927882" duration="19798000" />
+      <workItem from="1528112819946" duration="23149000" />
+      <workItem from="1528210072819" duration="1753000" />
+      <workItem from="1528382873067" duration="7580000" />
+      <workItem from="1528548262788" duration="15916000" />
+      <workItem from="1528627590999" duration="9007000" />
+      <workItem from="1528701996900" duration="143000" />
+      <workItem from="1528713458175" duration="22188000" />
+      <workItem from="1528814246246" duration="12867000" />
+      <workItem from="1529149936567" duration="14276000" />
+      <workItem from="1529254854777" duration="33000" />
+      <workItem from="1529257101723" duration="6424000" />
+      <workItem from="1529274849410" duration="1393000" />
+      <workItem from="1529360033555" duration="1398000" />
+      <workItem from="1529403495939" duration="846000" />
+      <workItem from="1529413327402" duration="14516000" />
+      <workItem from="1529435970549" duration="147000" />
+      <workItem from="1529501210954" duration="14275000" />
+      <workItem from="1529663396603" duration="12019000" />
+      <workItem from="1529763481910" duration="6290000" />
+      <workItem from="1530182716342" duration="14697000" />
+      <workItem from="1530359349081" duration="6521000" />
+      <workItem from="1530379373078" duration="652000" />
+      <workItem from="1530432738634" duration="575000" />
+      <workItem from="1530533059209" duration="9133000" />
+      <workItem from="1530547962152" duration="6809000" />
+      <workItem from="1530624572686" duration="1678000" />
+      <workItem from="1530789958373" duration="9244000" />
+      <workItem from="1530806862788" duration="1870000" />
+      <workItem from="1530969017750" duration="654000" />
+      <workItem from="1531048875917" duration="12382000" />
+      <workItem from="1531071191853" duration="3649000" />
+      <workItem from="1531140001061" duration="4334000" />
+      <workItem from="1531222402334" duration="505000" />
+      <workItem from="1531226530580" duration="13267000" />
+      <workItem from="1531302436336" duration="26040000" />
+      <workItem from="1531396537884" duration="5589000" />
+      <workItem from="1531561524472" duration="21286000" />
+      <workItem from="1531645045366" duration="17230000" />
+      <workItem from="1531824917846" duration="11917000" />
+      <workItem from="1533897224319" duration="1148000" />
+      <workItem from="1533975018392" duration="797000" />
+      <workItem from="1535701917422" duration="14808000" />
+      <workItem from="1535718211618" duration="1359000" />
+      <workItem from="1535731928738" duration="290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="465300000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2624811" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32954547" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50073206" side_tool="true" weight="0.3279703" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.12708019" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49926794" weight="0.24675325" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.36201298" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.34253246" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32792208" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Bots/Bot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="28" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Instagram.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#64#84#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/mgp25/instagram-php/src/Request/Hashtag.php" />
+    <entry file="das://49a24960-0ca0-4711-9162-456ed820f377/schema/instatest/table/comments2436801585">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/mgp25/instagram-php/src/Request/Timeline.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/mgp25/instagram-php/src/Response/Model/Item.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/mgp25/instagram-php/src/Exception/AccountDisabledException.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/mgp25/instagram-php/src/Exception/InstagramException.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/mgp25/instagram-php/src/Exception/RequestException.php" />
+    <entry file="file://$PROJECT_DIR$/src/Exceptions/WorkStoppedException.php" />
+    <entry file="file://$PROJECT_DIR$/src/Repositories/StatisticsRepository.php" />
+    <entry file="file://$PROJECT_DIR$/.log" />
+    <entry file="das://49a24960-0ca0-4711-9162-456ed820f377/schema/instatest/table/base_accounts">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2436801585.log" />
+    <entry file="file://$PROJECT_DIR$/src/Entities/User.php" />
+    <entry file="file://$PROJECT_DIR$/ProcessController.php" />
+    <entry file="file://$PROJECT_DIR$/src/Entities/FollowedUser.php" />
+    <entry file="das://49a24960-0ca0-4711-9162-456ed820f377/schema/instatest/table/follows2436801585">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repositories/AccountsRepository.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="1004" column="9" selection-start-line="1004" selection-start-column="9" selection-end-line="1004" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repositories/FollowsRepository.php" />
+    <entry file="file://$PROJECT_DIR$/AccountWorkerProcess.php" />
+    <entry file="das://49a24960-0ca0-4711-9162-456ed820f377/schema/instatest/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/49a24960-0ca0-4711-9162-456ed820f377/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="45" selection-start-column="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="996" column="21" selection-start-line="996" selection-start-column="21" selection-end-line="996" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://49a24960-0ca0-4711-9162-456ed820f377/schema/instatest/table/user_settings">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Repositories/UsersRepository.php" />
+    <entry file="das://49a24960-0ca0-4711-9162-456ed820f377/schema/instatest/table/accounts_queue">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BotProcess.php" />
+    <entry file="file://$PROJECT_DIR$/src/Util/DatabaseWorker.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/mgp25/instagram-php/src/Instagram.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/mgp25/instagram-php/examples/customSettings.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/mgp25/instagram-php/examples/realtimeClient.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/mgp25/instagram-php/examples/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/Entities/BotProcessStatistics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/mgp25/instagram-php/src/Request/People.php" />
+    <entry file="file://$PROJECT_DIR$/examples/sas.txt.log" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19567">
+          <caret line="1151" column="9" selection-start-line="1151" selection-start-column="9" selection-end-line="1151" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bots/AccountsBot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+          <folding>
+            <element signature="e#23#55#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bots/Bot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="109" column="19" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bots/GeotagBot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+          <folding>
+            <element signature="e#23#55#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bots/HashtagBot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding>
+            <element signature="e#23#55#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bots/TagBot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#23#55#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/src/InstagramBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2737">
+          <caret line="161" column="7" selection-start-line="161" selection-start-column="7" selection-end-line="161" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Util/Logger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Util/AccountWorker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding>
+            <element signature="e#24#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Instagram.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding>
+            <element signature="e#64#84#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/botsExample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="e#53#85#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/accountWorkerExample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

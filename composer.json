@@ -1,0 +1,29 @@
+{
+  "name": "shilza/instagram-promouter",
+  "description": "Smart library for the promotion of accounts in the Instagram",
+  "version": "master",
+  "keywords": [
+    "instagram",
+    "promotion",
+    "bot"
+  ],
+  "type": "library",
+  "homepage": "https://github.com/Shilza/instagram-promouter",
+  "authors": [
+    {
+      "name": "Shilza",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "mgp25/instagram-php": "v4.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Bot\\": "src/Bots",
+      "Util\\": "src/Util",
+      "Instagram\\": "src/",
+      "Entity\\": "src/Entities"
+    }
+  }
+}
