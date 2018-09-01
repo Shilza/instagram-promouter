@@ -2,6 +2,8 @@
   "name": "shilza/instagram-promouter",
   "description": "Smart library for the promotion of accounts in the Instagram",
   "version": "0.1.0",
+  "minimum-stability": "dev",
+  "prefer-stable": true
   "keywords": [
     "instagram",
     "promotion",
