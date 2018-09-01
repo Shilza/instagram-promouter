@@ -3,7 +3,7 @@
   "description": "Smart library for the promotion of accounts in the Instagram",
   "version": "0.1.0",
   "minimum-stability": "dev",
-  "prefer-stable": true
+  "prefer-stable": true,
   "keywords": [
     "instagram",
     "promotion",
