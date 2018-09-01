@@ -13,7 +13,7 @@ You can download it [here](https://getcomposer.org/download/)
 # Description
 You just run the bot and it does all the routine work of mass following and mass liking for you  
 
-### The Instagram promoter has three kinds of bots:
+### The Instagram promouter has three kinds of bots:
 #### 1. Account bot  
 The Account bot takes an account from the list of default accounts(you can pass to bot your custom accounts list), from the selected account it looks at the list of followers, selects some of them, then follow/like/comment them.
 #### 2. **Hashtag bot**
