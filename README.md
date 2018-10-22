@@ -35,7 +35,7 @@ $instagram->runGeoTagBot();
 #### With the help of a `InstagramBuilder` class you can configure the work of bots:
 1. You can activate likes, follows, comments.
 2. You can activate default comments, hashtags and geotags also you can add your custom comments, hashtags and geotags.
-3. To mimic the actions of the browser, the bots use the delay between requests to remove it, you need to call the method `withoutDelay ()` of the InstagramBuilder class.
+3. To mimic the actions of the browser, the bots use the delay between requests to remove it, you need to call the method `withoutDelay()` of the InstagramBuilder class.
 4. To configure the Account bot operations, you can specify the list of accounts that it will use with the `setGenesisAccounts()` method of the InstagramBuilder class. If you do not specify them, then default accounts will be used.
 
 If you want to log the actions of bots, you can use the built-in logger.  
